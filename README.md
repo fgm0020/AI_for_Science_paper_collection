@@ -45,5 +45,5 @@ If you want to join the team, please contact <a href="mailto:sherrylixuecheng@go
 
 (2) Trends of different applications
 <p align="center">
-  <img src="src/conference_application_year.png" width="600" title="Applications of ML papers in main conferences">
+  <img src="src/conference_application_year.png" width="500" title="Applications of ML papers in main conferences">
 </p>
